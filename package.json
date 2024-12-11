@@ -51,5 +51,6 @@
     "patchedDependencies": {
       "vite-plugin-markdown-preview@1.1.1": "patches/vite-plugin-markdown-preview@1.1.1.patch"
     }
-  }
+  },
+  "packageManager": "pnpm@9.15.0"
 }
