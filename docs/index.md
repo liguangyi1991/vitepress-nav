@@ -17,9 +17,9 @@ hero:
       theme: alt
     - text: mmPlayer
       link: https://netease-music.fe-mm.com
-    - text: 测试页
-      link: /test
-      theme: alt
+    # - text: 测试页
+    #   link: /test
+    #   theme: alt
 features:
   - icon: 📖
     title: 前端物语
